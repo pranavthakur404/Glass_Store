@@ -1,0 +1,38 @@
+.container {
+  width: 100%;
+  padding: 3% 10px;
+  display: flex;
+  justify-content: space-between;
+}
+.thumbnail {
+  width: 40%;
+}
+.thumbnail img {
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+}
+.Details {
+  width: 60%;
+  padding: 2%;
+}
+.price {
+  font-size: 2rem;
+  margin: 20px 0px;
+}
+.title {
+  font-size: 1.5rem;
+}
+.AddToCartButton {
+  width: 200px;
+  height: 35px;
+  background-color: transparent;
+  border: 2px solid #000;
+  font-weight: 700;
+  transition: 0.5s;
+  cursor: pointer;
+}
+.AddToCartButton:hover {
+  background-color: #000;
+  color: #fff;
+}

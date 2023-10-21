@@ -1,0 +1,31 @@
+.contactContainer {
+  width: 100%;
+  padding: 3% 10px;
+}
+.formHeading {
+  font-size: 20px;
+}
+.formContainer {
+  margin-top: 20px;
+}
+.formContainer label {
+  font-size: 15px;
+  font-weight: 700;
+  margin: 10px 0px;
+  display: inline-block;
+  margin-right: 10px;
+}
+.formContainer input {
+  padding: 5px;
+  border: none;
+  border-bottom: 1px solid #000;
+}
+.submitBtn {
+  width: 100px;
+  height: 30px;
+  background-color: transparent;
+  border: 1px solid #000;
+  font-weight: 700;
+  margin-top: 5px;
+  cursor: pointer;
+}

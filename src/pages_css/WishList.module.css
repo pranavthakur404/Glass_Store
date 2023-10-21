@@ -1,0 +1,6 @@
+.wishListContainer {
+  width: 100%;
+  padding: 3% 10px;
+  display: flex;
+  justify-content: space-evenly;
+}

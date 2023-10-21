@@ -1,0 +1,12 @@
+.BannerWithText {
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  margin-top: 20px;
+  font-size: 1rem;
+}
+.BannerWithText img {
+  width: 300px;
+  height: 300px;
+}
